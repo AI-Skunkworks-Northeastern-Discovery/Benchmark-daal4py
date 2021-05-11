@@ -1,0 +1,12 @@
+29-Mar-21 12:50:22 : 14608 : INFO : Intell DAAL4PY Logs initiated!
+29-Mar-21 12:50:22 : 14608 : INFO : Current time: 2021-03-29__12.50
+29-Mar-21 12:50:22 : 14608 : INFO :  The Data spliting process started
+29-Mar-21 12:50:23 : 14608 : INFO : Data spliting process done successfuly!!!
+29-Mar-21 12:50:23 : 14608 : INFO :  Parallel Execution starts ..!! 
+29-Mar-21 12:50:27 : 14608 : INFO : Parallel Initialization
+29-Mar-21 12:50:27 : 14608 : INFO :  Parallel Execution ends..!! 
+29-Mar-21 12:50:27 : 14608 : INFO : Exporting the latency
+29-Mar-21 12:50:27 : 14608 : INFO : Data exported to JSON successfully!
+29-Mar-21 12:50:27 : 14608 : INFO : Exporting the Metrics
+29-Mar-21 12:50:27 : 14608 : INFO : Data exported to JSON successfully!
+29-Mar-21 12:50:27 : 14608 : INFO : Program completed normally

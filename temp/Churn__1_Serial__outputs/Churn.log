@@ -1,0 +1,30 @@
+29-Mar-21 12:44:28 : 8392 : INFO : Intell DAAL4PY Logs initiated!
+29-Mar-21 12:44:28 : 8392 : INFO : Current time: 2021-03-29__12.44
+29-Mar-21 12:44:28 : 8392 : INFO :  The Data spliting process started
+29-Mar-21 12:44:29 : 8392 : INFO : Data spliting process done successfuly!!!
+29-Mar-21 12:44:29 : 8392 : INFO : spliting the data frame into Train and test
+29-Mar-21 12:44:29 : 8392 : INFO :  Serial Execution starts ..!! 
+29-Mar-21 12:44:29 : 8392 : INFO : Serial Initialization
+29-Mar-21 12:48:24 : 12600 : INFO : Intell DAAL4PY Logs initiated!
+29-Mar-21 12:48:24 : 12600 : INFO : Current time: 2021-03-29__12.48
+29-Mar-21 12:48:24 : 12600 : INFO :  The Data spliting process started
+29-Mar-21 12:48:24 : 12600 : INFO : Data spliting process done successfuly!!!
+29-Mar-21 12:48:24 : 12600 : INFO : spliting the data frame into Train and test
+29-Mar-21 12:48:24 : 12600 : INFO :  Serial Execution starts ..!! 
+29-Mar-21 12:48:24 : 12600 : INFO : Serial Initialization
+29-Mar-21 12:48:25 : 12600 : INFO : Training the Naive Bayes in pydaal Batch/Serial Mode
+29-Mar-21 12:48:25 : 12600 : INFO : Completed Naive Bayes in pydaal Batch/Serial Mode
+29-Mar-21 12:48:25 : 12600 : INFO : Training the KMeans in pydaal Batch/Serial Mode
+29-Mar-21 12:48:25 : 12600 : INFO : Completed KMeans in pydaal Batch/Serial Mode
+29-Mar-21 12:48:25 : 12600 : INFO : Training the serial PCA in  pydaal
+29-Mar-21 12:48:25 : 12600 : INFO : Training the PCA in pydaal Batch Mode
+29-Mar-21 12:48:25 : 12600 : INFO : Completed PCA in pydaal Batch/Serial Mode
+29-Mar-21 12:48:25 : 12600 : INFO : Training the SVD in pydaal Batch Mode
+29-Mar-21 12:48:25 : 12600 : INFO : Completed SVD in pydaal Batch/Serial Mode
+29-Mar-21 12:48:25 : 12600 : INFO :  Serial Execution ends..!! 
+29-Mar-21 12:48:25 : 12600 : INFO :  Parallel Execution ends..!! 
+29-Mar-21 12:48:25 : 12600 : INFO : Exporting the latency
+29-Mar-21 12:48:25 : 12600 : INFO : Data exported to JSON successfully!
+29-Mar-21 12:48:25 : 12600 : INFO : Exporting the Metrics
+29-Mar-21 12:48:25 : 12600 : INFO : Data exported to JSON successfully!
+29-Mar-21 12:48:25 : 12600 : INFO : Program completed normally

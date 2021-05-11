@@ -1,0 +1,7 @@
+{
+    "Serial Naive Bayes Batch Time": 0.0019965171813964844,
+    "Overall Serial Naive bayes Prediction Batch Time": 0.0030107498168945312,
+    "Serial_KMeans_Batch_Time": 0.002686023712158203,
+    "Serial_PCA_Batch_Time": 0.0010123252868652344,
+    "Serial_SVD_Batch_Time": 0.0009996891021728516
+}

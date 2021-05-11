@@ -1,0 +1,8 @@
+29-Mar-21 13:38:31 : 11856 : INFO : Intell DAAL4PY Logs initiated!
+29-Mar-21 13:38:31 : 11856 : INFO : Current time: 2021-03-29__13.38
+29-Mar-21 13:38:31 : 11856 : INFO :  The Data spliting process started
+29-Mar-21 13:38:31 : 11856 : INFO : Data spliting process done successfuly!!!
+29-Mar-21 13:38:31 : 11856 : INFO : spliting the data frame into Train and test
+29-Mar-21 13:38:31 : 11856 : INFO :  Serial Execution starts ..!! 
+29-Mar-21 13:38:31 : 11856 : INFO : Serial Initialization
+29-Mar-21 13:38:32 : 11856 : INFO : Training the Naive Bayes in pydaal Batch/Serial Mode
